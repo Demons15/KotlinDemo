@@ -15,7 +15,7 @@ import java.io.FileNotFoundException
 import java.io.FileOutputStream
 import java.io.IOException
 
-object Util {
+ object Util {
 
     fun startShareImage(activity: Activity) {
         //过滤出需要分享到对应的平台：微信好友、朋友圈、QQ好友。  可自行修改
