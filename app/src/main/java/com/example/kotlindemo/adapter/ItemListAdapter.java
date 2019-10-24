@@ -14,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.example.kotlindemo.ImageShowActivity;
 import com.example.kotlindemo.R;
-import com.example.kotlindemo.Util;
 import com.example.kotlindemo.model.Item;
 
 
